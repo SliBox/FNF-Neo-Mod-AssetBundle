@@ -1,0 +1,187 @@
+ManifestFileVersion: 0
+CRC: 2777929833
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tutorial_gf_mod1
+      Dependencies: {}
+    Info_1:
+      Name: tutorial_gf_mod2
+      Dependencies: {}
+    Info_2:
+      Name: tutorial_gf_mod3
+      Dependencies: {}
+    Info_3:
+      Name: tutorial_gf_mod4
+      Dependencies: {}
+    Info_4:
+      Name: version
+      Dependencies: {}
+    Info_5:
+      Name: tutorial_gf_mod5
+      Dependencies: {}
+    Info_6:
+      Name: tutorial_gf_mod6
+      Dependencies: {}
+    Info_7:
+      Name: tutorial_gf_mod7
+      Dependencies: {}
+    Info_8:
+      Name: tutorial_gf_mod8
+      Dependencies: {}
+    Info_9:
+      Name: tutorial_gf_mod9
+      Dependencies: {}
+    Info_10:
+      Name: week10
+      Dependencies: {}
+    Info_11:
+      Name: week11
+      Dependencies: {}
+    Info_12:
+      Name: week12
+      Dependencies: {}
+    Info_13:
+      Name: week20
+      Dependencies: {}
+    Info_14:
+      Name: week21
+      Dependencies: {}
+    Info_15:
+      Name: week22
+      Dependencies: {}
+    Info_16:
+      Name: wekk30
+      Dependencies: {}
+    Info_17:
+      Name: wekk31
+      Dependencies: {}
+    Info_18:
+      Name: wekk32
+      Dependencies: {}
+    Info_19:
+      Name: week40
+      Dependencies: {}
+    Info_20:
+      Name: week41
+      Dependencies: {}
+    Info_21:
+      Name: week42
+      Dependencies: {}
+    Info_22:
+      Name: lofi_girl_0
+      Dependencies: {}
+    Info_23:
+      Name: lofi_girl_1
+      Dependencies: {}
+    Info_24:
+      Name: lofi_girl_2
+      Dependencies: {}
+    Info_25:
+      Name: lofi_girl_3
+      Dependencies: {}
+    Info_26:
+      Name: lofi_girl_4
+      Dependencies: {}
+    Info_27:
+      Name: lofi_girl_5
+      Dependencies: {}
+    Info_28:
+      Name: lofi_girl_6
+      Dependencies: {}
+    Info_29:
+      Name: orange0
+      Dependencies: {}
+    Info_30:
+      Name: week50
+      Dependencies: {}
+    Info_31:
+      Name: week51
+      Dependencies: {}
+    Info_32:
+      Name: week52
+      Dependencies: {}
+    Info_33:
+      Name: week60
+      Dependencies: {}
+    Info_34:
+      Name: week62
+      Dependencies: {}
+    Info_35:
+      Name: week61
+      Dependencies: {}
+    Info_36:
+      Name: week70
+      Dependencies: {}
+    Info_37:
+      Name: week72
+      Dependencies: {}
+    Info_38:
+      Name: week71
+      Dependencies: {}
+    Info_39:
+      Name: fire_water_0
+      Dependencies: {}
+    Info_40:
+      Name: fire_water_1
+      Dependencies: {}
+    Info_41:
+      Name: fire_water_2
+      Dependencies: {}
+    Info_42:
+      Name: fire_water_3
+      Dependencies: {}
+    Info_43:
+      Name: fire_water_4
+      Dependencies: {}
+    Info_44:
+      Name: fire_water_5
+      Dependencies: {}
+    Info_45:
+      Name: steven0
+      Dependencies: {}
+    Info_46:
+      Name: steven1
+      Dependencies: {}
+    Info_47:
+      Name: steven2
+      Dependencies: {}
+    Info_48:
+      Name: steven3
+      Dependencies: {}
+    Info_49:
+      Name: game_data
+      Dependencies: {}
+    Info_50:
+      Name: miku0
+      Dependencies: {}
+    Info_51:
+      Name: miku1
+      Dependencies: {}
+    Info_52:
+      Name: miku2
+      Dependencies: {}
+    Info_53:
+      Name: miku3
+      Dependencies: {}
+    Info_54:
+      Name: miku4
+      Dependencies: {}
+    Info_55:
+      Name: neo_remix_0
+      Dependencies: {}
+    Info_56:
+      Name: neo_remix_1
+      Dependencies: {}
+    Info_57:
+      Name: neo_remix_2
+      Dependencies: {}
+    Info_58:
+      Name: neo_remix_3
+      Dependencies: {}
+    Info_59:
+      Name: neo_remix_4
+      Dependencies: {}
+    Info_60:
+      Name: neo_remix_5
+      Dependencies: {}

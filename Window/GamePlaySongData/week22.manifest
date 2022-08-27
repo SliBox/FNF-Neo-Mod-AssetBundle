@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 514884001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4316e4488d4b40af98c6717302cdcc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b91be70ad8afa704a1cf8d32f83996cc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ab08f0782fb5a747829c317dceb2123, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: MainEnemyAnimatorController
+Assets:
+- Assets/_All Mod Asset/Classic Mod/1_WEEK 1-7/week2/Monster.asset
+Dependencies: []
