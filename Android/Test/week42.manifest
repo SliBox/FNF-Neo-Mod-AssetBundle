@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 416552897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d6aee12c0b628e0260c3cfcb3b75de1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9bc592cdf6ad216fedecdf805085bd15
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c7a7e46632bee244bd53236d5f0eb41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ab08f0782fb5a747829c317dceb2123, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_All Mod Asset/Classic Mod/1_WEEK 1-7/week4/Milf.asset
+Dependencies: []

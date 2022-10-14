@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1756586197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 995ba814059d92668135f58eaa1ec68d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe862acc03334e0fb58e65a6324dffed
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ab08f0782fb5a747829c317dceb2123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3806ca7755bd3e043a16acf6ccaa8f07, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scripts/Data/BigData/GameDataSever.asset
+Dependencies: []

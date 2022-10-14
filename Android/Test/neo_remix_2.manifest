@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1282625762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22a0ccbd66497bd5a356cf278d033c13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cfee86a5288cd1295ced325f6b449cea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ab08f0782fb5a747829c317dceb2123, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_All Mod Asset/Hot Mod/1_3_Hot Neo Remix/week1/Dadbattle Neo Remix.asset
+Dependencies: []

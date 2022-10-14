@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 376512893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 739a34c8e2e86b75a45db8e63e8b2022
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c8a95f96fc736056a7cbb96ab88e5f29
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ab08f0782fb5a747829c317dceb2123, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_All Mod Asset/Hot Mod/1_3_Hot Neo Remix/week3/Blammed.asset
+Dependencies: []

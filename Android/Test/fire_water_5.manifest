@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2409341867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5afd3efc6a108d16cb1fa041edad6fa8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da235436e42a6cbef877ce91b80345c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ab08f0782fb5a747829c317dceb2123, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_All Mod Asset/Hot Mod/1_2_Fire Water Couple/data/5_expurgation/Expurgation.asset
+Dependencies: []
